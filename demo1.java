@@ -8,8 +8,7 @@ System.out.println("hello world");
 System.out.println("hello world");
   
 System.out.println("hello branch");
-  
-  this is branch b1
+ 
 }
 
 }
